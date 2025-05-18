@@ -8,6 +8,8 @@
 これをベースに、これから成長していくぞ！
 READMEの書き方も勉強中です。
 
+<img src="https://github.com/user-attachments/assets/80a9d4e0-275a-4e6b-9354-76f4b7c6fa6b" />
+
 ## 🔍 概要
 
 - 名前、プロフィール、趣味などを掲載
