@@ -9,6 +9,7 @@
 READMEの書き方も勉強中です。
 
 <img src="https://github.com/user-attachments/assets/80a9d4e0-275a-4e6b-9354-76f4b7c6fa6b" />
+<img src="https://github.com/user-attachments/assets/aeee6c9d-6694-47a9-9b18-ae2b5d21b92a" />
 
 ## 🔍 概要
 
